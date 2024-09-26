@@ -8,7 +8,7 @@ function App() {
     <>
       {/* <Hero /> */}
       {/* <About /> */}
-      {/* <SkateConfigurator /> Adicione o configurador 3D */}
+      <SkateConfigurator /> Adicione o configurador 3D
     </>
   );
 }
